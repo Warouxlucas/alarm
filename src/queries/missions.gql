@@ -1,0 +1,9 @@
+"query missions{
+  missions{
+    title
+    description
+    street
+    lat
+    lng
+  }
+}"
